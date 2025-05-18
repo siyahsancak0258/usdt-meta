@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+  "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png",
+  "website": "https://tether.to",
+  "verified": true,
+  "description": "This is the official Tether USD (USDT) token on TRON blockchain.",
+  "tags": ["stablecoin", "usd", "tether", "usdt"]
+}
